@@ -1,0 +1,17 @@
+/* Global Dark Background */
+body {
+  background-color: #121212; /* Dark background */
+  color: #ffffff; /* Light text for contrast */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #64b5f6; /* Light blue color for links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bbdefb;
+}
